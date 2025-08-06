@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "252b51e867ac9a8d",
+            "id": "1e21b64c5b8b2773",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Pré-cálculo/Álgebra.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Álgebra"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pré-cálculo/Álgebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Álgebra"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pré-cálculo/Álgebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Álgebra"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Pré-cálculo/Álgebra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Álgebra"
             }
           }
         ]
@@ -161,6 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "252b51e867ac9a8d",
-  "lastOpenFiles": []
+  "active": "1e21b64c5b8b2773",
+  "lastOpenFiles": [
+    "README.md",
+    "Pré-cálculo/Funções.md",
+    "Pré-cálculo/Álgebra.md",
+    "Pré-cálculo/Trigonometria.md",
+    "Pré-cálculo"
+  ]
 }
